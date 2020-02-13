@@ -4,7 +4,7 @@ This Jenkins readme is located only on the 'dev' branch, we learnt how to switch
 the dev and master branch and had Jenkins listen to only the dev branch and build when changes have
 been committed to that branch.
 
-TEST MERGE TEXT
+[TEST TEXT ON DEV BRANCH]
 
 Interview Questions:
 - how are you planning on implementing devops to your company
