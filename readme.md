@@ -5,7 +5,7 @@ the dev and master branch and had Jenkins listen to only the dev branch and buil
 been committed to that branch.
 
 [TEST TEXT ON DEV BRANCH]
-[NOW TRY TO MERGE] 3
+[NOW TRY TO MERGE] 4
 
 Interview Questions:
 - how are you planning on implementing devops to your company
